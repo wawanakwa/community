@@ -1,0 +1,16 @@
+{
+	"$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
+	"version": "0.2",
+	"name": "community",
+	"language": "en_US",
+	"description": "cSpell configuration file for the community repository.",
+	"dictionaries": ["community"],
+	"dictionaryDefinitions": [
+		{
+			"name": "community",
+			"path": "./.cspell/community.txt",
+			"addWords": true
+		}
+	],
+	"minWordLength": 4
+}
